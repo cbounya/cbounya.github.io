@@ -1,0 +1,12 @@
+- texte: Cours 
+  texteCourt: Cours
+  url: /cours/
+- texte: Exercices
+  texteCourt: Exercices
+  url: /td/
+- texte: Devoirs et sujets d'annales
+  texteCourt: Sujets
+  url: /devoirs/
+- texte: Développements et thèmes d'approfondissements
+  texteCourt: Approfondissement
+  url: /developpements/

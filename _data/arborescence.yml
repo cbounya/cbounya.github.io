@@ -1,0 +1,9 @@
+- texte: Documents et liens utiles
+  texteCourt: Utile
+  url: /utile/
+- texte: Colles de mathématiques 
+  texteCourt: Colles
+  url: /colles/
+- texte: Modélisation en Scilab
+  texteCourt: Scilab
+  url: /scilab/
