@@ -1,27 +1,13 @@
 ---
 layout: page
-title: Sommaire du cours
+title: Documents et liens utiles
 permalink: /utile/
 ---
 
-## Programmes officiels de nos classes
 
-### Mathématiques et informatique 
+{% comment %}
 
-- [Programme Ece 1](./progMathEce1.pdf "fichier PDF" ) 
-- [Programme Ece 2](./progMathEce2.pdf "fichier PDF" ) 
-
-### Économie, sociologie et histoire du monde contemporain (ESH)
-
-- [Programme Ece 1 & 2](./progEshEce12.pdf "fichier PDF" ) 
-
-### Economie approfondie
-
-- [Programme Ece 1 & 2](./progEcoApprofECE12.pdf "fichier PDF") 
-
-### Langues vivantes étrangères
-
-- [Objectifs de formation](./progLveCpgeEco.pdf "fichier PDF" ) 
+Pour l'année 2016-2017, le thème de deuxième année est **la parole**.
 
 <ul class="nav nav-tabs">
   <li class=""><a aria-expanded="true" href="#progMath" data-toggle="tab">Maths</a></li>
@@ -32,6 +18,12 @@ permalink: /utile/
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="progMath">
     <h3 id="mathmatiques-et-informatique">Mathématiques et informatique</h3>
+    <h4>Lycée</h4>
+    <ul>
+      <li><a href="./progPrem.pdf" title="fichier PDF">Programme Première</a></li>
+      <li><a href="./progTerm.pdf" title="fichier PDF">Programme Terminale</a></li>
+    </ul>
+    <h4>Cpge Ece</h4>
     <ul>
       <li><a href="./progMathEce1.pdf" title="fichier PDF">Programme Ece 1</a></li>
       <li><a href="./progMathEce2.pdf" title="fichier PDF">Programme Ece 2</a></li>
@@ -56,30 +48,44 @@ permalink: /utile/
     </ul>
   </div>
 </div>
+{% endcomment %}
 
 <h2 id="programmes-officiels-de-nos-classes">Programmes officiels de nos classes</h2>
 <div class="row">
   <div class="col-lg-4">
     <h3 id="mathmatiques-et-informatique">Mathématiques et informatique</h3>
+    <h4>Lycée</h4>
+    <ul>
+      <li><a href="./progPrem.pdf" title="fichier PDF">Programme Première</a></li>
+      <li><a href="./progTerm.pdf" title="fichier PDF">Programme Terminale</a></li>
+    </ul>
+    <h4>Cpge Ece</h4>
     <ul>
       <li><a href="./progMathEce1.pdf" title="fichier PDF">Programme Ece 1</a></li>
       <li><a href="./progMathEce2.pdf" title="fichier PDF">Programme Ece 2</a></li>
     </ul>
   </div>
   <div class="col-lg-4">
-    <h3 id="conomie-sociologie-et-histoire-du-monde-contemporain-esh">Économie, sociologie et histoire du monde contemporain (ESH)</h3>
+    <h3>Sciences sociales</h3>
+    <h4>Économie, sociologie et histoire du monde contemporain (ESH)</h4>
     <ul>
       <li><a href="./progEshEce12.pdf" title="fichier PDF">Programme Ece 1 &amp; 2</a></li>
     </ul>
-    <h3 id="economie-approfondie">Economie approfondie</h3>
+    <h4 id="economie-approfondie">Économie approfondie</h4>
     <ul>
       <li><a href="./progEcoApprofECE12.pdf" title="fichier PDF">Programme Ece 1 &amp; 2</a></li>
     </ul>
   </div>
   <div class="col-lg-4">
-    <h3 id="langues-vivantes-trangres">Langues vivantes étrangères</h3>
+    <h3>Langues vivantes étrangères</h3>
     <ul>
       <li><a href="./progLveCpgeEco.pdf" title="fichier PDF">Objectifs de formation</a></li>
+    </ul>
+    <h3>Culture générale</h3>
+    <h4>Dissertation</h4>
+    <ul>
+      <li><a href="./progDissert.pdf" title="fichier PDF">Objectifs de formation</a></li>
+      <li><p>Pour l’année 2016/17, le thème de deuxième année est &laquo;<strong>la parole</strong>&raquo;.</p></li>
     </ul>
   </div>
 </div>
