@@ -1,3 +1,12 @@
 body {
   padding-top: 60px;
 }
+
+h2:before { /* pour les liens internes avec un href="#tag" ne saute pas trop 
+             https://css-tricks.com/hash-tag-links-padding/ */
+  display: block; 
+  content: " "; 
+  margin-top: -80px; 
+  height: 80px; 
+  visibility: hidden; 
+}
